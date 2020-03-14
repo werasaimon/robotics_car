@@ -6,10 +6,7 @@
 unsigned int localPort = 8888;     // Локальный порт прослушевания сети 
 
 const char *ssid     = "ROBO_CAR"; // SSID имя WiFi точки-доступа робокара 
-const char* password = "12345678"; // Пароль WiFi
-
-//const char *ssid     = "wera"; // SSID имя WiFi точки-доступа робокара 
-//const char* password = "123qwe1023"; // Пароль WiFi  
+const char* password = "12345678"; // Пароль WiFii  
 
 
 IPAddress local_ip(192,168,43,100);  // IP-адрес робокара
