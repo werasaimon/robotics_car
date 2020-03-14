@@ -8,7 +8,7 @@ NVIDIA PACK :       Android-SDK / Android-NDK / Java_JDK : https://developer.nvi
 
 Фиксируем ориентацию экрана Qt QML Android приложения : https://webhamster.ru/mytetrashare/index/mtb0/1515236706q7xwxmaylv
 
-#YouTube Video:
+#YouTube Video: <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=823eTLcOzQU
 " target="_blank"><img src="http://img.youtube.com/vi/823eTLcOzQU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
